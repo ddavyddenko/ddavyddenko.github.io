@@ -1,2 +1,1 @@
-# ddavyddenko.github.io
-[Мой сайт](http://ddavyddenko.github.io)
+# [ddavyddenko.github.io](http://ddavyddenko.github.io)
